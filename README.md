@@ -1,3 +1,3 @@
 # hello-world
-It is great!
-My First Repository on GitHub
+It is great to geek out and have fun with code!!!
+My First Repositor on GitHub
